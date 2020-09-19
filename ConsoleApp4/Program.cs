@@ -15,6 +15,8 @@ namespace ConsoleApp4
             Console.WriteLine("別人修改了一些東西");
             //lolmuta加入新功能
             Console.WriteLine("lolmuta加入新功能");
+            //chiga fix something
+            Console.WriteLine("chiga fix something");
         }
     }
 }
