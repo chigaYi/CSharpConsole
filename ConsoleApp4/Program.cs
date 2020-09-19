@@ -21,6 +21,8 @@ namespace ConsoleApp4
             Console.WriteLine("lolmuta add more new function");
             //chiga add more function
             Console.WriteLine("chiga add more function  ");
+            //修正 那個那個 這個這個
+            Console.WriteLine("修正 那個那個 這個這個");
         }
     }
 }
