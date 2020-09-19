@@ -11,6 +11,8 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("我要放git");
+            //別人修改了一些東西
+             Console.WriteLine("別人修改了一些東西");
         }
     }
 }
